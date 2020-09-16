@@ -27,8 +27,8 @@
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
-<br/>
-I love my work and enjoy each new challenge as it arises. Have a look at my **[portfolio and experience](https://eduardo99ja.github.io/portfolio/)**, and don’t hesitate to **[contact me](mailto:eduardo1ja99@gmail.com)** if you think I can be of service to you.
+
+I love my work and enjoy each new challenge as it arises. Have a look at my **[portfolio and experience](https://eduardo99ja.github.io/portfolio/))**, and don’t hesitate to **[contact me](mailto:eduardo1ja99@gmail.com)** if you think I can be of service to you.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
