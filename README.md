@@ -27,7 +27,7 @@
 - ☁ &nbsp; Aws
 
 
-I love my work and enjoy each new challenge as it arises. Have a look at my **[portfolio and experience](https://apodaca-portfolio.netlify.app)**, and don’t hesitate to **[contact me](mailto:eduardo1ja99@gmail.com)** if you think I can be of service to you.
+I love my work and enjoy each new challenge as it arises. Have a look at my **[portfolio and experience](https://eduardo-apodaca.netlify.app/)**, and don’t hesitate to **[contact me](mailto:eduardo1ja99@gmail.com)** if you think I can be of service to you.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
